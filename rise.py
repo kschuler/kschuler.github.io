@@ -1,2 +1,2 @@
 print("rise and shine")
-print("Let it rain
+print("Let it rain")
