@@ -9,7 +9,7 @@ assistant professor of linguistics at upenn
 - courses
   - [datasci for lang & mind](/datasci)
   - [neurolinguistics](/neuroling)
-  - [acquisition of variation]()
-  - language and the brain
-  - intro to linguistic
+  - [acquisition of variation](/ling607)
+  - [language and the brain](/ling104)
+  - [intro to linguistics](/ling001)
 
