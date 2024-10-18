@@ -5,7 +5,7 @@ assistant professor of linguistics at upenn
 - me
   - [cv](katie-cv-aug2024.pdf)
   - [lab](https://www.childlanglab.com/)
-  - contact: [email](kschuler@sas.upenn.edu), [github](https://github.com/kschuler)
+  - contact: [email](mailto:kschuler@sas.upenn.edu), [github](https://github.com/kschuler)
 - courses
   - [datasci for lang & mind](/datasci)
   - [neurolinguistics](/neuroling)
