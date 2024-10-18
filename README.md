@@ -1,5 +1,3 @@
-# katie schuler
-
 assistant professor of linguistics at upenn
 
 - me
