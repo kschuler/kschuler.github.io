@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
 # katie schuler
 
 assistant professor of linguistics at upenn
