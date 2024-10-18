@@ -1,19 +1,15 @@
-<head>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
-
 # katie schuler
 
 assistant professor of linguistics at upenn
 
 - me
-  - cv
-  - lab
-  - contact: email, github
+  - [cv](katie-cv-aug2024.pdf)
+  - [lab](https://www.childlanglab.com/)
+  - contact: [email](kschuler@sas.upenn.edu), [github](https://github.com/kschuler)
 - courses
-  - datasci for lang & mind
-  - neurolinguistics
-  - acquisition of variation
+  - [datasci for lang & mind](/datasci)
+  - [neurolinguistics](/neuroling)
+  - [acquisition of variation]()
   - language and the brain
   - intro to linguistic
 
