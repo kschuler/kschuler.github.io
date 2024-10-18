@@ -11,5 +11,5 @@ assistant professor of linguistics at upenn
   - neurolinguistics
   - acquisition of variation
   - language and the brain
-  - intro do linguistic
+  - intro to linguistic
 
