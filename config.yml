@@ -1,0 +1,6 @@
+title: Child Language Lab
+description: University of Pennsylvania
+remote_theme: niklasbuschmann/contrast
+
+plugins:
+  - jekyll-remote-theme
