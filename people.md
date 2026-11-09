@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: People
 ---
 
 
-Welcome to our lab website!
+People
