@@ -7,3 +7,4 @@ plugins:
 
 navigation:
   - {file: "index.md", title: "Home"}
+  - {file: "people.md", title: "People"}
