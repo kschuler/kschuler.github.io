@@ -32,7 +32,7 @@ title: People
 </style>
 
 <div class="person">
-  <img src="images/kathryn.jpg" alt="Kathryn Schuler">
+  <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/katieschuler/kschuler.webp" alt="Kathryn Schuler">
   <div>
     <h3>Kathryn Schuler</h3>
     <p>Principal Investigator</p>
