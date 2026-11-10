@@ -8,6 +8,7 @@ title: People
 
 |  | | | 
 | --- | --- | --- | 
+| ![](https://bear-images.sfo2.cdn.digitaloceanspaces.com/katieschuler/kschuler.webp)| | |
 | Katie Schuler | test | test | 
 | Associate Professor | Graduate student | Graduate student |
 
