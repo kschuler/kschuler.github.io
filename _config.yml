@@ -5,6 +5,14 @@ remote_theme: oinam/oinam-jekyll
 plugins:
   - jekyll-remote-theme
 
+# styles
+styles:
+  font_family: mixed-serif # sans (default), serif, mixed-sans (sans-head, serif-body), mixed-serif (serif-head, sans-body)
+  # include only the styles you want [true | false]
+  forms: true
+  syntax_highlighter: true # Code Syntax Highlighter
+  inline: true # true to embed the styles in the HTML
+
 navigation:
   - {file: "index.md", title: "Home"}
   - {file: "people.md", title: "People"}
