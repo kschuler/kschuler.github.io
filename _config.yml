@@ -1,10 +1,7 @@
 title: Child Language Lab
 description: at the University of Pennsylvania
 
-remote_theme: chesterhow/tale
-
-permalink:    /:year-:month-:day/:title
-paginate:     5
+remote_theme: oinam/oinam-jekyll
 
 plugins:
   - jekyll-paginate
