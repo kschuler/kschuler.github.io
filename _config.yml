@@ -1,18 +1,23 @@
 title: Child Language Lab
 description: at the University of Pennsylvania
 
-remote_theme: oinam/oinam-jekyll
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
 plugins:
+  - jekyll-paginate
   - jekyll-remote-theme
 
-# styles
-styles:
-  font_family: mixed-serif # sans (default), serif, mixed-sans (sans-head, serif-body), mixed-serif (serif-head, sans-body)
-  # include only the styles you want [true | false]
-  forms: true
-  syntax_highlighter: true # Code Syntax Highlighter
-  inline: true # true to embed the styles in the HTML
+# # styles
+# styles:
+#   font_family: mixed-serif # sans (default), serif, mixed-sans (sans-head, serif-body), mixed-serif (serif-head, sans-body)
+#   # include only the styles you want [true | false]
+#   forms: true
+#   syntax_highlighter: true # Code Syntax Highlighter
+#   inline: true # true to embed the styles in the HTML
 
-navigation:
-  - {file: "index.md", title: "Home"}
-  - {file: "people.md", title: "People"}
+# navigation:
+#   - {file: "index.md", title: "Home"}
+#   - {file: "people.md", title: "People"}
